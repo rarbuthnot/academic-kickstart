@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "js-square"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "JavaScript"
   description = "90%"  
   
 [[feature]]
