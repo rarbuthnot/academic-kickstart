@@ -31,5 +31,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "Angular"
   description = "90%"
+  
+[[feature]]
+  icon = "atlassian"
+  icon_pack = "fab"
+  name = "Atlassian"
+  description = "90%"  
 
 +++
