@@ -46,6 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rarbuthnot
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/russ-arbuthnot-778591a
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +64,4 @@ user_groups:
 - Professional Scrum Master I
 ---
 
-Russ Arbuthnot is a director of innovation at a global marketing services company. His interests include agile software development, technical product management, programming, and coffee. He leads a team of product owners, who manage over a one-hunderd-million dollars of proprietery software and technology.
+Russ Arbuthnot is a director of innovation at a global marketing services company with over 20 years of experience in engineering and technology. His interests include agile software development, technical product management, programming, and coffee.
