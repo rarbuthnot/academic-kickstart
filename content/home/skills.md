@@ -18,24 +18,24 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "90%"
+  description = "v8+"
   
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "90%"  
+  description = "es3 through es2018"  
   
 [[feature]]
   icon = "angular"
   icon_pack = "fab"
   name = "Angular"
-  description = "90%"
+  description = "v1 & v2+"
   
 [[feature]]
   icon = "atlassian"
   icon_pack = "fab"
   name = "Atlassian"
-  description = "90%"  
+  description = "Jira, Confluence, Bitbucket"  
 
 +++

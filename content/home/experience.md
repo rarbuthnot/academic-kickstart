@@ -19,17 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Director of Innovation"
-  company = "INWK"
+  company = "InnerWorkings"
   company_url = "https://www.inwk.com"
   location = "Illinois"
   date_start = "2006-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Previous positions at INWK:
+
+  * Application Design Director
+  * ERP Design Team Lead
+  * Product Manager
+  * Business Analyst
+  * QA Team Lead
+  * Application Developer
   """
 
 [[experience]]
@@ -39,6 +42,6 @@ date_format = "Jan 2006"
   location = "Illinois"
   date_start = "1999-06-01"
   date_end = "2006-04-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 +++
