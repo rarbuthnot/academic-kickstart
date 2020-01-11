@@ -45,8 +45,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CodeWars.com"
   organization_url = "https://www.codewars.com"
-  title = "CodeWars Rank: 5 kyu, 326 points"
+  title = "CodeWars"
   date_start = "2017-03-01"
-  certificate_url = "https://www.codewars.com/users/rarbuthnot/badges/large"
+  url = "https://www.codewars.com/users/rarbuthnot/"
+  description = """
+  <a href="https://www.codewars.com/users/rarbuthnot/"><img src="https://www.codewars.com/users/rarbuthnot/badges/micro"></a>
+  """
 
 +++

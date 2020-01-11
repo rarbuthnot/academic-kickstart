@@ -4,9 +4,9 @@
 title: "Electrical Audio Website"
 summary: "Business website with Equipment Database and User Forum"
 authors: []
-tags: [project, website, php, LAMP, linux, MySQL]
+tags: [project, website, php, LAMP, linux, MySQL, phpBB]
 categories: []
-date: 2020-01-06T16:07:12-05:00
+date: 2003-03-01T16:07:12-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The electricalaudio.com home page."
   focal_point: ""
   preview_only: false
 
@@ -40,3 +40,11 @@ url_video: ""
 slides: ""
 ---
 Went live in 2003.
+
+## Technology Used:
+* PHP
+* MySQL
+* Apache, then later Nginx
+* Linux
+* phpBB
+* Photoshop

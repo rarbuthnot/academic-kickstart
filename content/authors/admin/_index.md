@@ -22,7 +22,7 @@ bio: My interests include agile software development, technical product manageme
 
 interests:
 - Agile Software Development
-- Remote and Distributed Team Management 
+- Remote and Distributed Team Management
 
 education:
   courses:
