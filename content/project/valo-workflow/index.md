@@ -4,9 +4,9 @@
 title: "Valo Workflow"
 summary: "Customer Marketing Execution Portal with direct integration to procurement system."
 authors: []
-tags: [AngularJS resusable-components]
+tags: ["AngularJS", "resusable-components"]
 categories: []
-date: 2020-01-06T16:15:36-05:00
+date: 2019-05-01T16:15:36-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

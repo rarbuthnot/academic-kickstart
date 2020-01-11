@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PPM4"
-summary: "Bid management, and order management system."
+title: "Discogs Discography"
+summary: "View my discography at Discogs.com"
 authors: []
 tags: []
 categories: []
-date: 2010-01-06T16:06:12-05:00
+date: 2007-01-01T16:40:01-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.discogs.com/artist/420673-Russ-Arbuthnot"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Smart"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

@@ -50,6 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/russ-arbuthnot-778591a
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/63093906-russ-arbuthnot
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

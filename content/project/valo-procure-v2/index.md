@@ -4,9 +4,9 @@
 title: "Valo Procure v2"
 summary: "Modern bid management and order processing system. Angular and Java with Springboot."
 authors: []
-tags: []
+tags: ["java", "AngularJS", "agile", "scrum", "springboot", "maven"]
 categories: []
-date: 2020-01-06T16:04:21-05:00
+date: 2015-10-15T16:04:21-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

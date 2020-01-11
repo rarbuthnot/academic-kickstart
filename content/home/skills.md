@@ -36,6 +36,6 @@ subtitle = ""
   icon = "atlassian"
   icon_pack = "fab"
   name = "Atlassian"
-  description = "Jira, Confluence, Bitbucket"  
+  description = "Jira, Confluence, Bitbucket, Administration"  
 
 +++
