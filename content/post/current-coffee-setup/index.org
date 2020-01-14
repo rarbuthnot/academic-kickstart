@@ -1,0 +1,103 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Current Coffee Setup"
+subtitle: ""
+summary: ""
+authors: []
+tags: ["coffee", "equipment", "remote work"]
+categories: ["Coffee"]
+date: 2020-01-11T13:51:22-05:00
+lastmod: 2020-01-11T13:51:22-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+As a remote worker, I'm responsible for making my own coffee, which is great until you realize how deep you can go.
+
+My coffee setup is what I'd consider a light-middlewight setup. It's basically a budget-friendly step-up from a setup that someone who doesn't know or care about how they make their coffee or how it tastes. Once you care only a little bit about those two things, I'd recommend stepping up to a similar setup to mine.
+
+I drink anywhere between five and ten 5oz. cups of drip coffee a day. No, I don't drink them five ounces at a time. I typically have about 20oz. of drip in the morning, and I'll either refill a little later in the morning, or if I miss that refill, end up getting some more in the afternoon.
+
+I'll drink cold coffee without much hesitation as long as I know it was good tasting.
+
+Preferably, I have time in the early afternoon to make a double espresso or double macchiato, but since my son is typically napping at that time, and I'm often busy with work, I don't do that as often as I'd like.
+
+* Drip Machine
+**  KitchenAid Custom Pour Over Coffee Brewer
+[[kitchenAid-pour-over.jpg]]
+# TODO Replace image
+This has been the daily workhorse since kindly received as a Christmas gift from my parents in 2016. It works great, and tastes great if you keep up with the cleaning. It requires filling up the carafe all the way to the little coffee cup icon in order to get the full 10 cup brew out of it. I typically use ~65 grams of coffee and a paper cone filter. It likes to collect grinds on the shower head that need to be cleaned off after each brew, and it can be a bit tricky to pour the water into the smallish top without making a small mess.
+
+I'll likely replace this one sometime soon with another brewer off of the [[https://sca.coffee/certified-home-brewer][SCA certified machine list]]. My friend has a Bonavita that I recommended to him that he likes, and I like how they come with a carafe that should keep the coffee warm for a longer period of time.
+
+* Espresso Machine
+** Gaggia Classic
+# TODO Replace image
+
+#+CAPTION: The best kind of machine: simple, yet powerful in the right hands.
+[[gaggia-classic.jpg]]
+
+This was another Christmas gift, but one we gave ourselves, in 2018.
+
+It's a great home espresso machine, as long as you are pretty comfortable doing most of the work yourself. I had a lot of experience making espresso shots from working at the studio. Almost all of that experience was self-discovered. I later found out, more recently, that the shots I'd been pulling at the studio were likely way too weak, but whatever. I've honestly only had a few really bad tasting espresso shots (usually the sour ones, not the bitter ones.) And almost all of those were after I got this machine at home and I could even tell the difference between a good espresso shot and a not-so-good one.
+
+The point is, be ready to do some work.
+
+To that end, it didn't take me long after I got this machine to start modding and upgrading it. Luckily, I've been pretty satisfied with the mods I did, and haven't had to mod or upgrade since then. There comes a point with making espresso drinks where you realize that it's not the machine anymore, it's your technique. So, you know what to focus on.
+
+*** Modifications
+   1. Replaced the stock plastic steam wand with a plain stainless one.
+
+    This mod takes only a couple of minutes and the part is cheap. Not only does the stainless look better, once you get your technique down, it works better as well.
+
+   2. Adjust pressure to 9 bar.
+    
+    This mod takes more time and required creating a way to measure the pressure so it can be adjusted to the correct value. Fortunately, this is also pretty easy by buying an inexpensive pressure guage from Home Depot, unscrewing the duel spout from the stock portafilter and attaching the pressure guage to the portafilter with teflon tape.
+    
+    There are plenty of guides online that show how to do this modification. 
+    
+    Nine bar is quite a bit lower than the standard ~15 that the machine uses from the factory, so expect that shots will take a bit longer to pull after making this modification than before. In practice, if you weigh your shots, it's a non-issue.
+
+*** Upgrades
+   1. Naked portafilter. A naked portafilter is just a portafilter that is open on the bottom, so it doesn't have that traditional dual spout.
+
+    The benefits of having a naked portafilter are fairly minor compared to the drawbacks.
+
+    The biggest drawback is they can be pretty messy. But, actually, this can be a benefit because you'll really only have really messy shots if your tamping is poor.
+
+    Without a naked portafilter, you'd have no idea if your tamping was bad or not. With a naked portafilter, it's very obvious. If you have coffee spraying everywhere, your tamping is bad and you need to work on it. If, for the majority of the shot, the coffee starts to seep out and collect near the middle of the basket before falling into the cup, your tamping is good.
+
+    The portafilter I bought also has a much nicer handle than the hollow, strangly-shaped one that came with the machine.
+
+   2. 20g Basket. When I bought the naked portafilter it came with a 20g basket. Since I like a lot of coffee, having this basket is great. If I'm making a lot of espresso drinks, and I have really good beans, I'll step down to the 14g basket that came with the machine.
+
+   3. Backflush Basket. I also purchased an inexpensive flush basket (a basket without any holes) to use for backflushing the machine after heavy use. I consider this a must-have if you have this type of machine and you'd like it to last.
+
+
+
+* Grinder
+** Baratza Encore
+
+* Accessories
+** Scales
+   I have two scales: The greatest precision on the first one is one gram. I use this one daily for weighing beans for drip coffee. It's sturdy, fast, and reliable. Perfect for the job. The other scale has a precision of one-one-hundredth of a gram. 
+** Tamper
+** Espresso Cups
+
+* Beans
+** Favorite Brand: Happy Mug

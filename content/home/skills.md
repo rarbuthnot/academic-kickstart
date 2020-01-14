@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "paper-plane"
+  icon_pack = "fas"
+  name = "Agile & Scrum"
+  description = "14 years"
+  
+[[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"

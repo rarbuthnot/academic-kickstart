@@ -23,6 +23,7 @@ bio: My interests include agile software development, technical product manageme
 interests:
 - Agile Software Development
 - Remote and Distributed Team Management
+- Mob Programming
 
 education:
   courses:
@@ -67,5 +68,6 @@ email: ""
 user_groups:
 - Professional Scrum Master I
 ---
-
 Russ Arbuthnot is a director of innovation at a global marketing services company with over 20 years of experience in engineering and technology. He is a lucky husband and father of two (one girl, one boy) and makes his home in Metro Detroit. His interests include agile software development, technical product management, programming, and coffee.
+
+
