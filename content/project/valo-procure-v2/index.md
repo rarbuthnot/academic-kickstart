@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Valo Procure v2"
-summary: "Modern bid management and order processing system. Angular and Java with Springboot."
+title: "Valo Procure"
+summary: "Order Management System"
 authors: []
 tags: ["java", "AngularJS", "agile", "scrum", "springboot", "maven"]
 categories: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+10,000 users, $700 million/year processed revenue. AngularJS/Spring Boot/MSSQL stack, 137k lines of code. This system serves as the central system running day-to-day global business at InnerWorkings. Users include all members of sales, production, operations, finance, support, and suppliers. Business features include bidding, quoting, purchasing, shipping, invoicing, supplier portal, customer management, supplier management, custom fields, large ERP / financial system integration, tax engine integration, tracking number integration, system administration, internationalization and localization in five languages. Technical features include continuous integration, continuous delivery (CI/CD) via canary releases, automated unit and integration tests, automated end-to-end browser tests, business rules, Git Workflow branching and releases.

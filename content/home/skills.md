@@ -19,7 +19,26 @@ subtitle = ""
   icon_pack = "fas"
   name = "Agile & Scrum"
   description = "14 years"
+
+[[feature]]
+  icon = "network-wired"
+  icon_pack = "fas"
+  name = "Distributed Team Management"
+  description = "8 years"
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Mob Programming"
+  description = "4 years"
   
+[[feature]]
+  #switch to laptop-house when fontawesome is updated to 5.13 or higher
+  icon = "headphones"
+  icon_pack = "fas"
+  name = "Remote Work"
+  description = "10 years"
+
 [[feature]]
   icon = "java"
   icon_pack = "fab"
@@ -37,6 +56,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Angular"
   description = "5 years, v1 & v2+"
+
+[[feature]]
+  icon = "flag"
+  icon_pack = "far"
+  name = "Sonarqube"
+  description = "2 years"
 
 [[feature]]
   icon = "jenkins"
@@ -59,7 +84,7 @@ subtitle = ""
 [[feature]]
   icon = "leaf"
   icon_pack = "fas"
-  name = "Springboot"
+  name = "Spring Boot"
   description = "5 years"
 
 [[feature]]
@@ -84,14 +109,19 @@ subtitle = ""
   icon = "atlassian"
   icon_pack = "fab"
   name = "Atlassian"
-  description = "10 years, Jira, Confluence, Bitbucket, Administration"
+  description = "10+ years, Jira, Confluence, Bitbucket, Administration"
+  
+[[feature]]
+  icon = "slack"
+  icon_pack = "fab"
+  name = "Slack Administration"
+  description = "3 years"
 
 [[feature]]
-  icon = "headphones"
-  icon_pack = "fas"
-  name = "Remote Work"
-  description = "10 years"
-
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "MS Office"
+  description = "20+ years"
 
 [[feature]]
   icon = "linux"

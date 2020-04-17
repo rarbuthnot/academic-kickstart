@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Went live in 2003.
+I taught myself the LAMP (Linux, Apache, MySQL, PHP) stack in order to build this website for the company. The site went live in 2003  and has the same design, inside and out, to this day. I created and maintained the servers myself, and was the primary administrator of the site until 2019.
 
 ## Technology Used:
 * PHP

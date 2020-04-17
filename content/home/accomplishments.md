@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications, Training & Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -26,6 +26,56 @@ date_format = "Jan 2006"
   certificate_url = "https://www.scrum.org/certificates/155125"
   date_start = "2015-12-30"
   date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ryan Ripley, Detroit"
+  organization_url = "https://www.scrum.org"
+  title = "Leadership in the Age of Agile Workshop"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-30"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Dr. Venkat Subramaniam, Detroit Java User Group"
+  organization_url = "http://agiledeveloper.com/"
+  title = "The Power and Perils of Parallel Streams"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-02-28"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Detroit"
+  organization_url = ""
+  title = "Agile & Beyond Conference"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-30"
+  date_end = "2019-05-30"
+  description = ""
+  
+[[item]]
+  organization = "Uncle Bob Martin, Auburn Hills"
+  organization_url = ""
+  title = "A Scribe's Oath - The Future of Programming"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-19"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "github.com"
+  organization_url = ""
+  title = "Hacktoberfest Open Source Contributor"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = "2019-10-31"
   description = ""
 
 [[item]]
@@ -51,5 +101,16 @@ date_format = "Jan 2006"
   description = """
   <a href="https://www.codewars.com/users/rarbuthnot/"><img src="https://www.codewars.com/users/rarbuthnot/badges/micro"></a>
   """
+
+[[item]]
+  organization = "Edward Tufte, Chicago"
+  organization_url = ""
+  title = "Presenting Data and Information Course"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-06-16"
+  date_end = ""
+  description = ""
+
 
 +++

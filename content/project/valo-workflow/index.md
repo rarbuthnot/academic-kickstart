@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Valo Workflow"
-summary: "Customer Marketing Execution Portal with direct integration to procurement system."
+summary: "B2B Self-Service Portal"
 authors: []
 tags: ["AngularJS", "resusable-components"]
 categories: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Customer Marketing Execution Portal with direct integration to procurement system. Same stack and technical features as VALO Procure, but the features allow customers to create marketing campaigns, manage brands, initiate and specify orders, quote and invoice management.

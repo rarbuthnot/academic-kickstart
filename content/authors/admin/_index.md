@@ -22,15 +22,20 @@ bio: My interests include agile software development, technical product manageme
 
 interests:
 - Agile Software Development
+- Process Improvement
+- Technical Product Management
 - Remote and Distributed Team Management
 - Mob Programming
+- Software Development
+- Audio Electronics
+- Coffee
 
 education:
   courses:
-  - course: BSc Audio Engineering and Production
+  - course: BS Audio Engineering and Production
     institution: Middle Tennessee State University
     year: 1999
-  - course: Wyoming 30 Day Backpacking Adventure
+  - course: Wilderness Adventure Course
     institution: National Outdoor Leadership School
     year: 1991
 
@@ -68,6 +73,6 @@ email: ""
 user_groups:
 - Professional Scrum Master I
 ---
-Russ Arbuthnot is a director of innovation at a global marketing services company with over 20 years of experience in engineering and technology. He is a lucky husband and father of two (one girl, one boy) and makes his home in Metro Detroit. His interests include agile software development, technical product management, programming, and coffee.
+I’m a Technical Director with over 20 years of experience who believes that great teams make great products! I can help your organization go from chaotic to controlled without losing its entrepreneurial spirit.  I am a lucky husband and father of two (a girl and a boy), living and working from home in Metro Detroit.
 
 
