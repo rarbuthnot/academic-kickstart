@@ -73,6 +73,6 @@ email: ""
 user_groups:
 - Professional Scrum Master I
 ---
-I’m a Technical Director with over 20 years of experience who believes that great teams make great products! I can help your organization go from chaotic to controlled without losing its entrepreneurial spirit.  I am a lucky husband and father of two (a girl and a boy), living and working from home in Metro Detroit.
+I'm a Technical Director with over 20 years of product and engineering experience who believes that great teams make great products! I can lead your organization from chaotic to controlled without losing its entrepreneurial spirit. I am a lucky husband and father of two (a girl and a boy), living and working from home in Metro Detroit.
 
 
