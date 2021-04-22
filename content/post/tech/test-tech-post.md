@@ -10,8 +10,7 @@ tags = []
 title = "Test Tech Post"
 [image]
 caption = ""
-focal_point = ""
-placement = nil
+
 
 +++
 Sample blog post from forestry.io interface.
