@@ -49,4 +49,5 @@ fields:
   label: featured
   description: You can filter by featured content on your homepage
 pages:
+- content/post/Test Folder/another-test-in-a-folder.md
 - content/post/test-post-from-forestry.md
