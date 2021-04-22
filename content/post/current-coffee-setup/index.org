@@ -10,7 +10,7 @@ categories: ["Coffee"]
 date: 2020-01-11T13:51:22-05:00
 lastmod: 2020-01-11T13:51:22-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
