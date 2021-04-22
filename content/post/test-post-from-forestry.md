@@ -10,7 +10,6 @@ title = "Test Post from Forestry"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
 
 +++
 Here is my test blog post.
