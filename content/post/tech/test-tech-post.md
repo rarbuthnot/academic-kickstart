@@ -11,6 +11,7 @@ title = "Test Tech Post"
 caption = ""
 focal_point = ""
 placement = nil
+draft = false
 
 +++
 Sample blog post from forestry.io interface.
