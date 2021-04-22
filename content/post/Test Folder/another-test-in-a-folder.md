@@ -10,7 +10,6 @@ title = "Another test in a folder"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
 
 +++
 This one is in a folder.
