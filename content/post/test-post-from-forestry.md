@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2021-04-22T04:00:00Z
-featured = false
+featured = true
 projects = []
 subtitle = "Subtitle for test post"
 summary = ""
