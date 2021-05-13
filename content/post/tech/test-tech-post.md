@@ -11,7 +11,7 @@ title = "Test Tech Post"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
+placement = 1
 
 +++
 Sample blog post from forestry.io interface. Here is more info.
