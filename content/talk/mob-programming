@@ -1,7 +1,7 @@
 ---
 title: "Mob Programming"
 date: 2021-05-19T12:30:34-04:00
-draft: true
+draft: false
 ---
 
 Six years ago I was searching for a way to get teams to increase quality and value delivery when I stumbled across a poorly filmed YouTube video of a software development team doing something unusual…
@@ -55,6 +55,6 @@ Meanwhile, the rest of the mob is doing things like:
 
 ---
 
-As we neared our first pilot in December, we started working with several other teams in a more intense Swarming model, and it was clear that the time we spent mobbing allowed our team to quickly adapt to working with new team members. I was so proud when I saw my team members be the first to offer to share their screen. Also, they’d be the first to offer to navigate someone from another team through an unfamiliar area of the code!
+As we neared our first pilot last December, we started working with several other teams in a more intense Swarming model, and it was clear that the time we spent mobbing allowed our team to quickly adapt to working with new team members. It might sound small, but it made me proud when I saw my team's members be the first to offer to share their screen. Also, they’d be the first to offer to navigate someone from another team through an unfamiliar area of the code!
 
 So, I encourage you to learn more about Mob Programming and to give it a try for one sprint. Change is the only constant. You’ll find you’ll like it better than all the other styles of working. And your leaders and stakeholders will love it, too! As always, feel free to reach out to me with questions. Lastly, thank you to my team for their courage, open-mindedness, honesty, and willingness to continuously improve. #TogetherWeWill
