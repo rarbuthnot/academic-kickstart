@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Director of Innovation
+role: Application Development Team Lead
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Mid-West Tool Collectors Association
+  url: "https://mwtca.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include agile software development, technical product management, programming, and coffee.
@@ -28,6 +28,9 @@ interests:
 - Mob Programming
 - Software Development
 - Audio Electronics
+- DIY Guitar Pedals
+- Vintage woodworking tools
+- Woodworking & carving
 - Coffee
 
 education:
@@ -70,8 +73,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Professional Scrum Master I
+#user_groups:
+
 ---
 I'm a Technical Director with over 20 years of product and engineering experience who believes that great teams make great products! I can lead your organization from chaotic to controlled without losing its entrepreneurial spirit. I am a lucky husband and father of two (a girl and a boy), living and working from home in Metro Detroit.
 
