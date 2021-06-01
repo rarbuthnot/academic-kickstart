@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "ScrumAlliance.org"
+  organization_url = "https://www.scrumalliance.org"
+  title = "Certified Agile Leadership for Organizations (CAL-O)"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-2-19"
+  date_end = "2023-06-01"
+  description = ""
+
+[[item]]
+  organization = "ScrumAlliance.org"
+  organization_url = "https://www.scrumalliance.org"
+  title = "Certified Agile Leadership Essentials (CAL-E)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-12-16"
+  date_end = "2023-06-01"
+  description = ""
+
 [[item]]
   organization = "Scrum.org"
   organization_url = "https://www.scrum.org"
@@ -112,5 +133,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Michigan Publinx Golf Association"
+  organization_url = ""
+  title = "2016 Deyak Classic Net Team"
+  date_start = "2016-09-01"
 
 +++
