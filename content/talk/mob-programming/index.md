@@ -28,7 +28,7 @@ The lines on the chart compare the Assumed Speed, Productivity, Value Delivery, 
 
 If this seems counterintuitive, you are not alone. Nearly everyone, including me, thinks this just can’t be true until they try it.
 
-Mob Programming is simply defined as (“All the brilliant minds working on the same thing at the same time in the same space on the same computer.”)[https://mobprogramming.org/] 
+Mob Programming is simply defined as [“All the brilliant minds working on the same thing at the same time in the same space on the same computer.”](https://mobprogramming.org/) 
 
 When first starting, it’s common to use the Driver / Navigator pattern which is summarized as: “For an idea to make it into the code, it must go through someone else’s hands.”
 
