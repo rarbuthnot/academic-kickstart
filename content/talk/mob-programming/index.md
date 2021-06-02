@@ -19,7 +19,7 @@ After ONE SPRINT we recognized that working this way was better than what we had
 When I started a new job last summer and introduced Mob Programming to my team, they were skeptical, too. True to form, some people saw the value right away. Since the team was fairly large, we quickly moved to two smaller “workstream” mobs, and the teams knocked out a mountain of work in a low-stress, continuous flow over the next several months.
 
 ---
-{{< figure src="WorkStyleIntensityVsEffectiveness.png" caption="Work Style Intensity Versus Effectiveness Chart" >}}
+{{< figure src="/img/WorkStyleIntensityVsEffectiveness.png" caption="Work Style Intensity Versus Effectiveness Chart" >}}
 
 Looking at the diagram, along the horizontal axis I have the different styles of development ordered by the intensity felt by a team member who has experience with each situation.
 
