@@ -4,7 +4,7 @@ date: 2021-05-19T12:30:34-04:00
 draft: false
 ---
 
-Six years ago I was searching for a way to get teams to increase quality and value delivery when I stumbled across a poorly filmed YouTube video of a software development team doing something unusual…
+Six years ago I was searching for a way to get teams to increase quality and value delivery when I stumbled across [a poorly filmed YouTube video](https://www.youtube.com/watch?v=p_pvslS4gEI) of a software development team doing something unusual…
 
 This team was reporting something nearly mythical: they went 18 months without a production bug while increasing their productivity by TEN TIMES. Naturally, I was skeptical.
 
@@ -19,6 +19,7 @@ After ONE SPRINT we recognized that working this way was better than what we had
 When I started a new job last summer and introduced Mob Programming to my team, they were skeptical, too. True to form, some people saw the value right away. Since the team was fairly large, we quickly moved to two smaller “workstream” mobs, and the teams knocked out a mountain of work in a low-stress, continuous flow over the next several months.
 
 ---
+
 {{< figure src="/img/WorkStyleIntensityVsEffectiveness.png" caption="Work Style Intensity Versus Effectiveness Chart" >}}
 
 Looking at the diagram, along the horizontal axis I have the different styles of development ordered by the intensity felt by a team member who has experience with each situation.
@@ -27,7 +28,7 @@ The lines on the chart compare the Assumed Speed, Productivity, Value Delivery, 
 
 If this seems counterintuitive, you are not alone. Nearly everyone, including me, thinks this just can’t be true until they try it.
 
-Mob Programming is simply defined as “All the brilliant minds working on the same thing at the same time in the same space on the same computer.” 
+Mob Programming is simply defined as (“All the brilliant minds working on the same thing at the same time in the same space on the same computer.”)[https://mobprogramming.org/] 
 
 When first starting, it’s common to use the Driver / Navigator pattern which is summarized as: “For an idea to make it into the code, it must go through someone else’s hands.”
 
