@@ -27,11 +27,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+/This was written back when I worked from home. I no longer work from home and my coffee habits and setup has changed accordingly./ 
+
 As a remote worker, I'm responsible for making my own coffee, which is great until you realize how deep you can go.
 
 My coffee setup is what I'd consider a light-middlewight setup. It's basically a budget-friendly step-up from a setup that someone who doesn't know or care about how they make their coffee or how it tastes. Once you care only a little bit about those two things, I'd recommend stepping up to a similar setup to mine.
 
-I drink anywhere between five and ten 5oz. cups of drip coffee a day. No, I don't drink them five ounces at a time. I typically have about 20oz. of drip in the morning, and I'll either refill a little later in the morning, or if I miss that refill, end up getting some more in the afternoon.
+I drink anywhere between five and ten 5oz. cups of drip coffee a day. Not five ounces at a time. I typically have about 20oz. of drip in the morning, and I'll either refill a little later in the morning, or if I miss that refill, I end up getting some more in the afternoon.
 
 I'll drink cold coffee without much hesitation as long as I know it was good tasting.
 
